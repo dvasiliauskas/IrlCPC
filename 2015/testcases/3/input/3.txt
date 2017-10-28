@@ -1,0 +1,21 @@
+20
+43 0 1 0 1 1 1 1 0 1 X A A N X N A R A 0 1 0 1 0 0 X A 0 1 A A X R R 0 1 1 N X N R X X R
+46 1 1 1 1 0 R N 1 0 A 1 0 0 0 1 0 A N R R 0 N 0 1 1 1 1 A 1 R X A N R A R A A A N A A N R N A
+43 1 0 1 A 1 1 1 0 A X 1 1 0 0 A X 0 0 A 1 N A N X R X 0 0 0 X 0 A A X R A N 0 1 A R N R
+54 0 N 1 0 A 0 R 1 0 R 1 A 1 1 1 A 1 R 0 1 N A N 0 N 0 N 0 N N N 0 1 1 A R N A R 1 N N X N N N N A X X R R A X
+45 0 1 0 1 R X N X 0 1 0 N R 1 1 0 X 0 A A A A 1 1 0 R X 1 1 0 0 A 0 0 X A N X N N R A N X A
+45 1 1 0 R 1 N A A 1 0 A 0 X X 0 0 1 1 R A X 0 A X N 1 1 0 1 0 A A N N 0 0 1 A N X A R N X X
+39 0 0 1 X A 0 1 1 R 0 1 1 0 1 1 A 1 1 A 0 1 X R 0 0 0 R 1 A X X X X X R A X A R
+43 0 1 1 0 N 0 X 0 0 1 0 R N X 0 0 1 0 0 0 X 0 0 0 0 A X A A X A X X 1 R X N A X R X N R
+46 1 1 0 1 0 X A X N 1 1 A 0 R 0 1 0 N R N X R 1 N X N N 1 R R 1 1 N X 0 X R X 1 1 0 X 1 A R X
+44 0 N 0 0 1 1 X 1 A N A 1 0 N X 0 1 0 1 0 1 X A 0 1 N A A 0 1 0 1 R A X A R A N A R X R A
+48 0 0 1 N N X 1 1 N 1 1 R A N 1 1 1 1 0 A R A A 1 1 R N N R A 1 0 X N 1 N 0 X 0 1 X R A A X N X R
+44 1 1 1 X A 0 1 0 1 0 0 1 A X 0 N 0 1 A 0 X 0 A X N R X N A A X R 0 1 0 0 N N 0 X X X X X
+45 1 N 0 0 0 0 X N 1 1 1 0 1 0 0 1 1 R X R N 0 1 R X X R R 1 0 1 N 0 N A A X X R N R X X R A
+46 0 1 X N 0 R 1 0 0 1 1 0 X 0 0 N 0 A X 1 N N 0 1 1 0 1 A X X A R A R A A 1 1 X N X X N N R A
+54 1 1 0 0 1 X 0 A N R N 1 0 0 X A 0 N 1 N R X R X X N N N 1 0 1 1 1 A N N 1 1 1 0 R A A R R N N R N A N N N R
+43 1 1 0 A X 1 1 1 1 0 0 R 0 0 R N X 0 0 R 0 N R X 1 1 A 1 0 1 1 A X N X N R X A R A A X
+42 0 1 1 X 0 0 1 A 1 1 A 1 R X X 0 1 0 0 0 1 R 0 0 N A 0 R X R A X R R R 1 0 R R N N A
+41 1 1 1 0 R 1 0 1 R 1 1 N 0 0 1 1 1 1 1 0 A A R 1 1 R 1 X R X N X X X A X X R R R R
+42 0 1 R 0 0 1 0 1 R 0 0 0 R R 0 0 X 0 0 0 1 1 X 0 R X X X 1 1 X X N N N A X A R X R A
+43 1 1 0 X 0 0 1 1 1 0 X A R X A A 0 1 1 1 1 X A 0 1 1 0 1 1 R N R A R N R X N N R X R R

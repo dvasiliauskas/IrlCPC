@@ -1,0 +1,7 @@
+6
+2 0 N
+2 1 N
+21 1 1 A 1 A 1 A 1 A 1 A 1 A 1 A 1 A 1 A 1 A
+21 1 1 1 1 1 1 1 1 1 1 1 A A A A A A A A A A
+21 0 1 X 1 X 0 X 1 X 0 X 1 X 0 X 1 X 0 X 1 X
+21 1 0 X 0 X 1 X 0 X 1 X 0 X 1 X 0 X 1 X 0 X
